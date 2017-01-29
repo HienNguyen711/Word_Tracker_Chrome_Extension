@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    padding: 10px;
+    width: 600px;
+    height: 300px;
+    background-image: url('http://orig11.deviantart.net/e5b2/f/2014/331/c/8/thebestfriend__background_animation__summer_by_tinavi-d87u6fa.png');
+}
+
+#words{
+    font-weight: 800;
+}
